@@ -170,7 +170,6 @@ namespace systemoffurniture
             bindingSource.ResetBindings(false);
 
         }
-
     }
 
 }
